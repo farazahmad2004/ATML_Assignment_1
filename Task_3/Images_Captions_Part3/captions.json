@@ -1,0 +1,542 @@
+[
+    {
+        "index": 0,
+        "labels": [
+            "a living room",
+            "a main course dish",
+            "green apples",
+            "cat above laptop"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "a field",
+            "a bear",
+            "a desktop computer",
+            "an aeroplane"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "highway sign board",
+            "local bus",
+            "a bedroom",
+            "men in a shop"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a group picture of students",
+            "a desktop computer",
+            "a field",
+            "a stop sign"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "cat above laptop",
+            "food on a table",
+            "teddy bears",
+            "a few sheep"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "man in the toilet",
+            "double decker bus",
+            "woman on ski",
+            "aeroplanes over a bridge"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a knife",
+            "a tram",
+            "a kitchen",
+            "local bus"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a bedroom",
+            "a stop sign",
+            "baseball players",
+            "highway sign board"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a cow",
+            "a tram",
+            "highway sign board",
+            "tennis player"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "green apples",
+            "man in a tie",
+            "woman holding a phone",
+            "children playing sports"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "teddy bears",
+            "a riverside",
+            "a man in the snow",
+            "a few fruits"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "an aeroplane",
+            "woman holding a phone",
+            "baseball players",
+            "mirror selfie"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "children playing sports",
+            "a hotel bathroom",
+            "a desktop computer",
+            "kids in a train"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "a tram",
+            "a hamburger",
+            "surfboarding",
+            "a desktop computer"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a group picture of students",
+            "snow capped mountain",
+            "snack",
+            "a man on a boat"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a group picture of students",
+            "a tennis player",
+            "a desktop computer",
+            "woman holding a phone"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "highway sign board",
+            "a few fruits",
+            "food on a table",
+            "a plate of food"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "double decker bus",
+            "living room",
+            "snack",
+            "snow capped mountain"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a man on a boat",
+            "double decker bus",
+            "cat above laptop",
+            "woman on ski"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "aeroplanes over a bridge",
+            "a stop sign",
+            "a few fruits",
+            "salad bowl"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "snow capped mountain",
+            "a zebra body",
+            "a man",
+            "cat above laptop"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a commode",
+            "teddy bears",
+            "a bedroom",
+            "a television"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "snack",
+            "a bus",
+            "lunch plate",
+            "a commode"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a living room",
+            "bunch of bananas",
+            "green apples",
+            "people in a room"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "a few sheep",
+            "a baseball match",
+            "snack",
+            "a man jumping"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "local bus",
+            "food on a table",
+            "man on skateboard",
+            "a man in the snow"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "tennis player",
+            "men in a shop",
+            "man swimming",
+            "cat on desk"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "a group picture of students",
+            "food on a table",
+            "man in a tie",
+            "snack"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "kitchen utensils",
+            "kids in a train",
+            "a main course dish",
+            "cat above laptop"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "bunch of bananas",
+            "a ski diver",
+            "a man jumping",
+            "men in a shop"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "woman on ski",
+            "food on a table",
+            "a man in the snow",
+            "a bedroom"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "snack",
+            "living room",
+            "a hamburger",
+            "mirror selfie"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "green apples",
+            "kitchen utensils",
+            "a hamburger",
+            "highway sign board"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "people in a room",
+            "man in a tie",
+            "a tram",
+            "people in a bakery"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "man on skateboard",
+            "woman holding a phone",
+            "a field",
+            "man in the toilet"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a hamburger",
+            "a zebra body",
+            "men shaking hands",
+            "man in the toilet"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "snow capped mountain",
+            "man in a tie",
+            "living room",
+            "a ski diver"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "salad bowl",
+            "man on skateboard",
+            "a desktop computer",
+            "a zebra body"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "living room",
+            "man on skateboard",
+            "kids in a train",
+            "bunch of bananas"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a supermarket",
+            "snow capped mountain",
+            "bunch of bananas",
+            "a baseball match"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a commode",
+            "man in a tie",
+            "a baseball match",
+            "lunch plate"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "snow capped mountain",
+            "lunch plate",
+            "people in a room",
+            "woman holding a phone"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "men shaking hands",
+            "a field",
+            "kitchen utensils",
+            "green apples"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "a baseball match",
+            "man in a tie",
+            "highway sign board",
+            "a man on a boat"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "people in a bakery",
+            "a bedroom",
+            "living room",
+            "baseball players"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "snow capped mountain",
+            "children playing sports",
+            "surfboarding",
+            "kitchen utensils"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "snow capped mountain",
+            "cat on desk",
+            "bunch of bananas",
+            "a ski diver"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "birthday celebration",
+            "local bus",
+            "surfboarding",
+            "a bear"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "food on a table",
+            "local bus",
+            "people in a room",
+            "a man on a boat"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a stop sign",
+            "double decker bus",
+            "mirror selfie",
+            "tennis player"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "surfboarding",
+            "a field",
+            "men in a shop",
+            "man in the toilet"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "a commode",
+            "a baseball match",
+            "an aeroplane",
+            "woman holding a phone"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "a commode",
+            "a hotel bathroom",
+            "a bus",
+            "kitchen utensils"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "a ski diver",
+            "an aeroplane",
+            "a field",
+            "mirror selfie"
+        ]
+    },
+    {
+        "index": 1,
+        "labels": [
+            "a living room",
+            "a tennis player",
+            "a man on a boat",
+            "man on skateboard"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a tennis player",
+            "cat above laptop",
+            "a field",
+            "a plate of food"
+        ]
+    },
+    {
+        "index": 2,
+        "labels": [
+            "cat on desk",
+            "a field",
+            "a few sheep",
+            "a kitchen"
+        ]
+    },
+    {
+        "index": 0,
+        "labels": [
+            "a few fruits",
+            "local bus",
+            "a zebra body",
+            "man on skateboard"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "a bedroom",
+            "a desktop computer",
+            "a baseball match",
+            "a tram"
+        ]
+    },
+    {
+        "index": 3,
+        "labels": [
+            "tennis player",
+            "food on a table",
+            "woman on ski",
+            "a hotel bathroom"
+        ]
+    }
+]
